@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "1038563114078",
+    "project_id": "square-tickets",
+    "storage_bucket": "square-tickets.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1038563114078:android:81fe9830dc7bf3578ec8cf",
+        "android_client_info": {
+          "package_name": "com.example.square_tickets"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1038563114078-ulnkntm51kq69rjagjk9d1b65n55j37a.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.square_tickets",
+            "certificate_hash": "e9c92eeea9739f246d0d9a54468025034843467f"
+          }
+        },
+        {
+          "client_id": "1038563114078-kv7jnebl2db3phq5oi2hu34c9p5d0fih.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAWLJgjOGYy5YARDUECZFLV8nHtdWigQaw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1038563114078-kv7jnebl2db3phq5oi2hu34c9p5d0fih.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
